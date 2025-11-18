@@ -4,3 +4,6 @@
 
 Added the RED rectangle (OMG)
 
+## 0.0.3
+
+Made the widgets size fixed
